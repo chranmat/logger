@@ -1,0 +1,19 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Simple logger component to use with other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chranmat/logger.git"
+  },
+  "author": "Christian A. Mathiesen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chranmat/logger/issues"
+  },
+  "homepage": "https://github.com/chranmat/logger#readme"
+}
